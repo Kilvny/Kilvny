@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kilvny
 - 👀 I’m interested in being a full stack engineer
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate with tech geks 
 - 📫 How to reach me : DM :) 
 
