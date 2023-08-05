@@ -2,7 +2,7 @@
 
 # Hi there, I'm [Ahmed El-Kilany](https://github.com/kilvny) 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who enjoys working on exciting projects and solving challenging problems. Feel free to explore my repositories, contributions, and stats. Don't hesitate to connect with me and explore the world of code together!
+Welcome to my GitHub profile! I'm a passionate full-stack developer who enjoys working on exciting projects and solving challenging problems. Feel free to explore my repositories, contributions, and stats. Don't hesitate to connect with me and explore the world of code together!
 
 <span align="left">
 
